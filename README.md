@@ -1,4 +1,7 @@
 # Patrones de Diseño
+### Diploamdo en Arquitectura de Software
+
+_Equipo #4_
 
 ## Ejercicio 1
 
